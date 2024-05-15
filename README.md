@@ -1,4 +1,3 @@
-Sure, here's a basic structure for a README file that you can write for your CRF model:
 
 ---
 
