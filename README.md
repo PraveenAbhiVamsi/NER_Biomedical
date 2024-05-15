@@ -53,5 +53,5 @@ The results of the model evaluation are presented in the form of performance met
 ## Acknowledgments
 
 - Special thanks to [SpaCy](https://spacy.io/) for providing the pre-trained English language model used for POS tagging.
-- Special Thanks to **Leela** for being supportive partner of this project 
+- Special Thanks to **Leela** (https://github.com/LEELAPRIYA) for being supportive partner of this project 
 ---
